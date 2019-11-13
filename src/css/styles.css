@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+header {
+    background: #09a7eb;
+    text-align: center
+}
+
+.logo{
+    /*  */
+    color: #555555;
+    font-size: 40px;
+    font-family: 'Fascinate Inline', cursive;
+}
+
+header input {
+    font-size: 20px;
+    margin: 20px 0;
+}
